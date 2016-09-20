@@ -1,0 +1,208 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body.index{
+	margin-right: 340px;
+	margin-left: 340px;
+	margin-top: 2px;
+	background-image: url(bg.png);
+	background-repeat: no-repeat;
+	background-size: 100% 275px;
+	background-position: 0% 275px;
+}
+
+body.Geschiedenis{
+	margin-left: 320px;
+	margin-right: 320px;
+	margin-top: 2px;
+	background-image: url(bg.png);
+	background-repeat: no-repeat;
+	background-size: 100% 275px;
+	background-position: 0% 275px;
+}
+
+body.kruisers{
+	margin-left: 290px;
+	margin-right: 290px;
+	margin-top: 2px;
+	background-image: url(bg.png);
+	background-repeat: no-repeat;
+	background-size: 100% 275px;
+	background-position: 0% 275px;
+}
+
+body.vlieg{
+	margin-left: 285px;
+	margin-right: 285px;
+	margin-top: 2px;
+	background-image: url(bg.png);
+	background-repeat: no-repeat;
+	background-size: 100% 275px;
+	background-position: 0% 275px;
+}
+
+body.Onderzeeërs{
+	margin-left: 300px;
+	margin-right: 300px;
+	margin-top: 2px;
+	background-image: url(bg.png);
+	background-repeat: no-repeat;
+	background-size: 100% 275px;
+	background-position: 0% 275px;
+}
+
+
+div.top{
+	height: 273px;
+	background-image: url(header.jpg);
+	background-color: white;
+	background-size: 100% 100%;
+	background-repeat: repeat;
+}
+
+div.mid{
+	background-color: white;
+}
+
+h1{
+	font-family: verdana;
+	padding-top: 10px;
+	padding-left: 20px;
+}
+
+p.top{
+	opacity: 0.8;
+	margin-top: -8px;
+	margin-left: 20px;
+	font-size: 20px;
+	font-family: calibri;
+}
+
+h2{
+	margin-left: 20px;
+	padding-top: 16px;
+	padding-bottom: 16px;
+	font-family: calibri;
+	font-size: 27px;
+}
+
+h2.vlieg{
+	margin-left: 20px;
+	padding-top: 16px;
+	padding-bottom: 0px;
+	font-family: calibri;
+	font-size: 27px;
+}
+
+h2.geschiedenis{
+	opacity: 0.8;
+	font-family: verdana;
+	font-size: 25px;
+}
+
+img.top-left{
+	margin-right: 20px;
+	margin-bottom: 30px;
+	margin-left: 20px;
+	float: left;
+}
+
+img.geschiedenis1{
+	margin-right: 20px;
+	margin-bottom: 30px;
+	margin-left: 0px;
+	float: left;
+}
+
+img.geschiedenis2{
+	float: right;
+	margin-left: 30px;
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+
+img.geschiedenis3{
+	float: left;
+	margin-right: 25px;
+	margin-top: 25px;
+}
+
+img.kruisers{
+	margin-right: 20px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+	float: left;
+}
+
+img.kruisers3{
+	padding-top: -20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	float: right;
+}
+
+img.vlieg{
+	padding-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	float: right;
+}
+
+img.vliegonder{
+	padding-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 30px;
+	margin-left: 10x;
+	float: left;
+}
+
+img.onderzeeer{
+	float: left;
+	margin-right: 25px;
+	margin-top: 25px;
+	margin-bottom: 20px;
+}
+
+p.vlieg{
+	padding: 20px;
+	margin-top: -10px;
+	margin-left: 10px;
+	margin-right: 15px;
+	font-family: calibri;
+}
+
+p.middle{
+	padding: 14px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 15px;
+	font-family: calibri;
+}
+
+li{
+	color: white;
+	display: inline;
+	margin-left: 5px;
+	margin-right: 15px;
+	font-size: 14px;
+}
+
+ul{
+	padding-left: 20px;
+	padding-top: 148px;
+	padding-bottom: 20px;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+
+a:hover{
+	color: yellow;
+	text-decoration: none;
+}
